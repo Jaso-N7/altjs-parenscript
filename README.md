@@ -10,6 +10,7 @@ Loaded via QuickLisp:
 
 1. (Portable) AServe
 2. Parenscript (obviously)
+3. CSS-LITE
 
 ### Usage
 

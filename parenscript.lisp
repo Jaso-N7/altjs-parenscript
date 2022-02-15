@@ -42,7 +42,8 @@
 	#:net.aserve
 	#:acl-compat.excl
 	#:net.html.generator
-	#:parenscript))
+	#:parenscript
+	#:css-lite))
 
 (in-package :test-js)
 
